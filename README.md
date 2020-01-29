@@ -1,5 +1,6 @@
 # DLA
 Diffusion Limited Aggregation
+
 Algorithm:
  1. Place seed at the centre of the canvas.
  2. Release a random walker from the edge.
